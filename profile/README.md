@@ -1,7 +1,7 @@
 # Hi, I'm Alexandru Artimon 👋
 
-- Co-founder [<img align="center" src="./assets/medicai_favicon.png" height="18"/>](https://medicai.io) [Medicai](https://medicai.io) — building AI-powered cloud PACS & imaging infrastructure
-- Co-founder [<img align="center" src="./assets/atta_favicon.png" height="18"/>](https://atta.systems) [Atta Systems](https://atta.systems) — product engineering for high-impact organizations
+- Co-founder [<img align="center" src="./profile/assets/medicai_favicon.png" height="18"/>](https://medicai.io) [Medicai](https://medicai.io) — building AI-powered cloud PACS & imaging infrastructure
+- Co-founder [<img align="center" src="./profile/assets/atta_favicon.png" height="18"/>](https://atta.systems) [Atta Systems](https://atta.systems) — product engineering for high-impact organizations
 
 
 🔭 **Now**: Building radiology workflows (Orthanc, OHIF, DICOM at scale), pragmatic AI in prod  
